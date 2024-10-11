@@ -16,16 +16,8 @@ Le projet repose sur un diagramme de classes qui montre les relations entre les 
 
 scss
 
-                   Forme
-              -------------------
-             | + Perimetre()      |
-             | + Aire()           |
-              -------------------
-                     ▲
-                     |
-     ---------------------------------
-    |                |                |
-    Rectangle         Cercle           AutreForme
+![image](https://github.com/user-attachments/assets/ce1fa111-2058-4052-b872-7b668f75db0d)
+
 
 Détails des classes :
 
