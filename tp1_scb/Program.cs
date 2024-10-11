@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Drawing;
+
+Point point = new Point(2, 2);
+
+point.ToString();
