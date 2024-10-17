@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9966E7F-D2F7-409E-90ED-6368CC5FB857}|TP1class.csproj|c:\\users\\gaeta\\documents\\github\\tp1\\tp1class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9966E7F-D2F7-409E-90ED-6368CC5FB857}|TP1class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:46:16.951Z",
+              "WhenOpened": "2024-10-11T09:11:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forme.cs",
+              "DocumentMoniker": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Forme.cs",
+              "RelativeDocumentMoniker": "Forme.cs",
+              "ToolTip": "C:\\Users\\gaeta\\Documents\\GitHub\\TP1\\TP1class\\Forme.cs",
+              "RelativeToolTip": "Forme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:32:29.649Z",
               "EditorCaption": ""
             }
           ]
